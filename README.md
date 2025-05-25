@@ -1,7 +1,5 @@
 <h1 align="center">Olá, eu sou Pedro</h1>
 
----
-
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor .NET Fullstack
