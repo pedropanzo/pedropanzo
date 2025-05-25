@@ -75,11 +75,11 @@ Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-s
 
 ## Estatísticas do GitHub & Linguagens Mais Usadas
 <div align='center'>
-  <img width="49%" height="195px" src='https://github-readme-stats.vercel.app/api?username=pedro-panzo&show_icons=true&count_private=true&hide=contribs,prs&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>
-  <img width="41%" height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>  
+  <img width="49%" height="195px" src='https://github-readme-stats.vercel.app/api?username=pedropanzo&show_icons=true&count_private=true&hide=contribs,prs&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>
+  <img width="41%" height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=pedropanzo&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>  
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-panzo&bg_color=0d1117&color=ffffff&line=007af0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedropanzo&bg_color=0d1117&color=ffffff&line=007af0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 ---
 
 ## 🏆 Conquistas
