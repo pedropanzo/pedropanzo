@@ -38,7 +38,7 @@ O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e int
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 <br>
--Bancos de Dados: SQL Server, MySQL, Postgre, Firebase.
+- Bancos de Dados: SQL Server, MySQL, Postgre, Firebase.
 <div style="display: inline_block">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -46,11 +46,25 @@ O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e int
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg">  
   </div>
 <br>
-- Cloud
-
-- DevOps
-
+- Cloud: Azure, AWS.
+<div style="display: inline_block">  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  </div>
+<br>
+- DevOps: Github Actions, Docker.
+<div style="display: inline_block">  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
+  </div>
+<br>
 - Outras
+<div style="display: inline_block">  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg">
+  </div>
+<br>
 - 
 
 <div align="center">
