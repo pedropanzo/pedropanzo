@@ -18,8 +18,10 @@
 O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e integrada desenvolvida para atender às necessidades diversas de instituições em diferentes setores. Projetado com a mais recente tecnologia, o "CARACOL" oferece uma variedade de módulos interconectados, proporcionando uma gestão eficiente e simplificada em diversas áreas.
 
 ## 🛠️ Tech Stack
-- Linguagens: C#, .NET, ASP.NET, Js, TypeScript, php.
-- <div style="display: inline_block"><br>
+- Backend: C#, ASP .NET core, Js, TypeScript, php.
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
@@ -27,7 +29,7 @@ O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e int
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </div>
