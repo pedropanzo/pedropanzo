@@ -18,9 +18,29 @@
 O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e integrada desenvolvida para atender às necessidades diversas de instituições em diferentes setores. Projetado com a mais recente tecnologia, o "CARACOL" oferece uma variedade de módulos interconectados, proporcionando uma gestão eficiente e simplificada em diversas áreas.
 
 ## 🛠️ Tech Stack
-- Linguagens: C#, .NET, ASP.NET, Js, TypeScript, php, Dart, etc.
-- Bancos de Dados: SQL Server, MySQL, Entityframework, etc.
-- 🌱 Estou aprendendo Angular e Flutter
+- Linguagens: C#, .NET, ASP.NET, Js, TypeScript, php.
+- <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  </div>
+<br>
+- Bancos de Dados: SQL Server, MySQL, Entityframework.
+
+- Cloud
+
+- DevOps
+
+- Outras
+- 
+
 <div align="center">
   
 | Backend | Frontend | Cloud | Banco de Dados | DevOps | Outras |
