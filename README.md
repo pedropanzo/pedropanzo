@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor .NET
-- 🔭 Atualmente trabalhando em projetos com **C#, ASP.NET Core, Entity Framework, APIs REST, Blazor e Angular**
+- 🔭 Atualmente trabalhando em projetos com **C#, ASP.NET Core, Entity Framework, APIs REST, Blazor e React**
 - ☁️ Experiência em Cloud: **Azure e AWS**
 - 🛠️ Práticas: **Clean Code, SOLID, TDD, DDD, Design Patterns**
 - 🎯 Focado em entregar valor através de soluções escaláveis e de alta performance
