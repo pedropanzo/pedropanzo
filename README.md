@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Desenvolvedor .NET Fullstack
+- 💼 Desenvolvedor .NET
 - 🔭 Atualmente trabalhando em projetos com **C#, ASP.NET Core, Entity Framework, APIs REST, Blazor e Angular**
 - ☁️ Experiência em Cloud: **Azure e AWS**
 - 🛠️ Práticas: **Clean Code, SOLID, TDD, DDD, Design Patterns**
